@@ -13,6 +13,6 @@
 <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="staging/cm-14.0" />
 <project path="system/core" name="G3-aosp-N/platform_system_core" remote="github" revision="aosp-7.0" />
 <project path="packages/apps/Launcher3" name="G3-aosp-N/android_packages_apps_Launcher3" remote="github" revision="aosp-7.0" />
-<project path="hardware/qcom/bt-caf" name="CyanogenMod/android_hardware_qcom_bt" remote="github" revision="staging/cm-14.0-caf" />
+<project path="hardware/qcom/bt-caf" name="G3-aosp-N/android_hardware_qcom_bt" remote="github" revision="aosp-7.0" />
 <project path="hardware/ril-caf" name="CyanogenMod/android_hardware_ril-caf" remote="github" revision="staging/cm-14.0-caf" />
 </manifest>
