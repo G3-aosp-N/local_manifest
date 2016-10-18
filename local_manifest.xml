@@ -25,6 +25,8 @@
 <remove-project name="platform/packages/apps/Launcher2" />
 <remove-project name="AOSP-JF-MM/platform_hardware_broadcom_libbt" />
 <project path="hardware/broadcom/libbt" name="CyanogenMod/android_hardware_broadcom_libbt" remote="github" revision="cm-14.0" />
+<remove-project name="AOSP-JF-MM/platform_frameworks_av" />
+<project path="frameworks/av" name="G3-aosp-N/platform_frameworks_av" groups="pdk" remote="github" revision="aosp-7.0" />
 
   <!-- Remove other devices -->
   <remove-project name="AOSP-JF-MM/platform_device_samsung_jflte" />
